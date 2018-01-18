@@ -24,4 +24,4 @@ The code can be run simply by opening the directory containing the python files 
 
 		python main.py
 		
-This will create two files called "images_for_video.csv" and "images_for_poi.csv" which contains the appropriate data.
+This will create two files called "images_for_video.csv" and "images_for_poi.csv" which contain the appropriate data.
