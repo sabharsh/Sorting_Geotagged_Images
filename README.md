@@ -16,12 +16,12 @@ There are two requirements to run this code. These requirements are as follow:
 
 2) Install Pillow by running the following command in command prompt/bash:
 		
-		pip install pillow
+	pip install pillow
 		
 ## Running the code
 
 The code can be run simply by opening the directory containing the python files in command prompt/bash and running the following command:
 
-		python main.py
+	python main.py
 		
 This will create two files called "images_for_video.csv" and "images_for_poi.csv" which contains the appropriate data.
